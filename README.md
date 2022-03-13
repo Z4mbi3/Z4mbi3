@@ -1,6 +1,8 @@
 <h1>
-  Hello! I'm Z4mbi3
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <center>
+    <p>Hello! I'm Z4mbi3</p>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </center>
 </h1>
 
 <div id="badges">
