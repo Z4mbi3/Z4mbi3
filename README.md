@@ -14,8 +14,7 @@
 ## About me
 
 * 💻 Cyber Security Student [@Howest](https://www.howest.be)
-* 🚩 Participating in CTFs
-* ❤️‍🔥 I love Cyber Security and a real challenge
+* ❤️‍🔥 Cyber Security is life
 
 
 ## 🔥 My Stats 
