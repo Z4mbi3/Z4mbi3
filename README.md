@@ -8,13 +8,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Z4mbi3&style=flat-square&color=blue" alt=""/>
 
 
 ## About me
 
-* 💻 Cyber Security Student [@Howest](https://www.howest.be)
-* ❤️‍🔥 Cyber Security is life
+🛡️💻
 
 
 ## 🔥 My Stats 
